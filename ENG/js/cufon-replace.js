@@ -1,0 +1,2 @@
+Cufon.replace('header nav ul li a,.header-pic .prev,.header-pic .next,h5,h2,.plug1,.plug2,.plug3,.phones', { fontFamily: 'Myriad Pro',hover:{} });
+Cufon.replace('.sitemaplogin',{fontFamily:'Myriad Pro',hover:{}});
